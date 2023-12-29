@@ -1,8 +1,9 @@
 import java.util.*;
 
-/**
- * J21914
- */
+//Rotating Sentences
+//CPE 21914
+//UVa 490
+
 public class J21914 {
 
     public static void main(String[] args) {

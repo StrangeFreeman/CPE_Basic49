@@ -1,8 +1,9 @@
 import java.util.*;
 
-/**
- * J22131
- */
+//TeX Quotes
+//CPE 22131
+//UVa 272
+
 public class J22131 {
 
     public static void main(String[] args) {

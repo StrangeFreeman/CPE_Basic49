@@ -1,8 +1,9 @@
 import java.util.*;
 
-/**
- * J082
- */
+//Mutant Flatworld Explorers
+//CPE 23641
+//UVa 118
+
 public class J23641 {
     public static int pos(char p) {
         int p2f = 0;

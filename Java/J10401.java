@@ -1,8 +1,9 @@
 import java.util.*;
 
-/**
- * J10401
- */
+//fibonaccimal base
+//CPE 10401 
+//UVa 948
+
 public class J10401 {
     public static void test(int[] arr, int n) {
         for (int i = 0; i < n; i++) {

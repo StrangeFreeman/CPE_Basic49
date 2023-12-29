@@ -1,8 +1,9 @@
 import java.util.*;
 
-/**
- * J22811
- */
+//train swapping
+//CPE 22811
+//UVa 299
+
 public class J22811 {
     public static int bouble_sort(int[] arr, int n) {
         int[] a = arr;

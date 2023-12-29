@@ -1,5 +1,9 @@
 import java.util.*;
 
+//3n+1 
+//CPE 10400 
+//UVa 100
+
 public class J10400 {
     public static int solve(int a) {
         int n = a;
